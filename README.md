@@ -1,11 +1,11 @@
-# $PIF (Pepe Wif Hat) White Paper
+# $PIF (Pepewifhat) White Paper
 
 Welcome to the official repository for the $PIF (Pepe Wif Hat) white paper. This document outlines the vision, mission, and strategic roadmap of $PIF, a community-driven memecoin built on the Solana blockchain. 
 
 ## Contents
 
 - **[White Paper PDF](./PIF_whitepaper.pdf)**: Download the full $PIF white paper in PDF format.
-- **Abstract**: $PIF (Pepe Wif Hat) is a vibrant, community-driven memecoin built on the Solana blockchain. Designed to empower its holders through creativity and collaboration, $PIF leverages the collective power of its community to foster a dynamic ecosystem where innovation and engagement drive sustainable growth.
+- **Abstract**: $PIF (Pepewifhat) is a vibrant, community-driven memecoin built on the Solana blockchain. Designed to empower its holders through creativity and collaboration, $PIF leverages the collective power of its community to foster a dynamic ecosystem where innovation and engagement drive sustainable growth.
 - **Introduction**: $PIF is a unique digital asset rooted in community engagement and creativity. Since its inception, $PIF has evolved into a thriving ecosystem supported by a dedicated community of investors, developers, and enthusiasts. Our mission is to build a sustainable and impactful financial landscape where every member can contribute and benefit.
 
 ## How to Access the White Paper
